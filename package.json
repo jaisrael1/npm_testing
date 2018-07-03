@@ -1,0 +1,15 @@
+{
+  "name": "@jisrael/npm_projects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Jake Israel",
+  "license": "ISC",
+  "description": "My first npm project",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {}
+}
